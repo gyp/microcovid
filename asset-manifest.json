@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/microcovid/static/css/main.ae7cbfcd.chunk.css",
+    "main.js": "/microcovid/static/js/main.f12175e1.chunk.js",
+    "main.js.map": "/microcovid/static/js/main.f12175e1.chunk.js.map",
+    "runtime-main.js": "/microcovid/static/js/runtime-main.ae8a0774.js",
+    "runtime-main.js.map": "/microcovid/static/js/runtime-main.ae8a0774.js.map",
+    "static/js/2.a30e11c2.chunk.js": "/microcovid/static/js/2.a30e11c2.chunk.js",
+    "static/js/2.a30e11c2.chunk.js.map": "/microcovid/static/js/2.a30e11c2.chunk.js.map",
+    "index.html": "/microcovid/index.html",
+    "static/css/main.ae7cbfcd.chunk.css.map": "/microcovid/static/css/main.ae7cbfcd.chunk.css.map",
+    "static/js/2.a30e11c2.chunk.js.LICENSE.txt": "/microcovid/static/js/2.a30e11c2.chunk.js.LICENSE.txt",
+    "static/media/ferretti-fig-1.e092a5fb.png": "/microcovid/static/media/ferretti-fig-1.e092a5fb.png",
+    "static/media/ferretti-infectiousness.10cd7faf.gif": "/microcovid/static/media/ferretti-infectiousness.10cd7faf.gif",
+    "static/media/he-extended-fig-1.b2eaf9a6.png": "/microcovid/static/media/he-extended-fig-1.b2eaf9a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae8a0774.js",
+    "static/js/2.a30e11c2.chunk.js",
+    "static/css/main.ae7cbfcd.chunk.css",
+    "static/js/main.f12175e1.chunk.js"
+  ]
+}

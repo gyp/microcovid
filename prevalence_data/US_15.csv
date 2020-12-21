@@ -1,0 +1,6 @@
+Name,Population,Cases in past week,Reported prevalence,Underreporting factor,Delay factor,Estimated prevalence
+Entire state,1415872,908,0.000642,2.627,1.3841,0.002334
+Hawaii,201513,81,0.000407,2.4763,1.209,0.001218
+Honolulu,974563,701,0.00072,2.6802,1.5272,0.002948
+Kauai,72293,11,0.000166,2.426,1.8333,0.000738
+Maui,167417,115,0.000693,2.4665,1.0,0.001709

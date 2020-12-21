@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/microcovid/static/css/main.ae7cbfcd.chunk.css",
-    "main.js": "/microcovid/static/js/main.f12175e1.chunk.js",
-    "main.js.map": "/microcovid/static/js/main.f12175e1.chunk.js.map",
+    "main.css": "/microcovid/static/css/main.9796c97a.chunk.css",
+    "main.js": "/microcovid/static/js/main.f7763cbf.chunk.js",
+    "main.js.map": "/microcovid/static/js/main.f7763cbf.chunk.js.map",
     "runtime-main.js": "/microcovid/static/js/runtime-main.ae8a0774.js",
     "runtime-main.js.map": "/microcovid/static/js/runtime-main.ae8a0774.js.map",
-    "static/js/2.a30e11c2.chunk.js": "/microcovid/static/js/2.a30e11c2.chunk.js",
-    "static/js/2.a30e11c2.chunk.js.map": "/microcovid/static/js/2.a30e11c2.chunk.js.map",
+    "static/js/2.ead449e2.chunk.js": "/microcovid/static/js/2.ead449e2.chunk.js",
+    "static/js/2.ead449e2.chunk.js.map": "/microcovid/static/js/2.ead449e2.chunk.js.map",
     "index.html": "/microcovid/index.html",
-    "static/css/main.ae7cbfcd.chunk.css.map": "/microcovid/static/css/main.ae7cbfcd.chunk.css.map",
-    "static/js/2.a30e11c2.chunk.js.LICENSE.txt": "/microcovid/static/js/2.a30e11c2.chunk.js.LICENSE.txt",
+    "static/css/main.9796c97a.chunk.css.map": "/microcovid/static/css/main.9796c97a.chunk.css.map",
+    "static/js/2.ead449e2.chunk.js.LICENSE.txt": "/microcovid/static/js/2.ead449e2.chunk.js.LICENSE.txt",
+    "static/media/false_negative_rate.93ed667b.jpeg": "/microcovid/static/media/false_negative_rate.93ed667b.jpeg",
     "static/media/ferretti-fig-1.e092a5fb.png": "/microcovid/static/media/ferretti-fig-1.e092a5fb.png",
     "static/media/ferretti-infectiousness.10cd7faf.gif": "/microcovid/static/media/ferretti-infectiousness.10cd7faf.gif",
-    "static/media/he-extended-fig-1.b2eaf9a6.png": "/microcovid/static/media/he-extended-fig-1.b2eaf9a6.png"
+    "static/media/gather_safely.4f2cf108.png": "/microcovid/static/media/gather_safely.4f2cf108.png",
+    "static/media/he-extended-fig-1.b2eaf9a6.png": "/microcovid/static/media/he-extended-fig-1.b2eaf9a6.png",
+    "static/media/hepa_filters.e1b90f2d.png": "/microcovid/static/media/hepa_filters.e1b90f2d.png",
+    "static/media/testTiming.9f118932.png": "/microcovid/static/media/testTiming.9f118932.png",
+    "static/media/thermometer-social.64d6f9b5.png": "/microcovid/static/media/thermometer-social.64d6f9b5.png",
+    "static/media/thermometer.627efa41.png": "/microcovid/static/media/thermometer.627efa41.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ae8a0774.js",
-    "static/js/2.a30e11c2.chunk.js",
-    "static/css/main.ae7cbfcd.chunk.css",
-    "static/js/main.f12175e1.chunk.js"
+    "static/js/2.ead449e2.chunk.js",
+    "static/css/main.9796c97a.chunk.css",
+    "static/js/main.f7763cbf.chunk.js"
   ]
 }
